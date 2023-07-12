@@ -6,10 +6,13 @@
 ## 🌼 Introduction 
 안녕하세요! 더 나은 사용자 경험을 제공하기 위해 노력하는 프론트엔드 개발자 정혜주 입니다.   
 
-## 🌼 Skills
+## 🛠 Skills
 ### Frontend
+ <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=TypeScript&logoColor=white"/>
 ### Collaboration
 ### Design
+
+## 🛠 Studying
 
 
 [![Solved.ac
