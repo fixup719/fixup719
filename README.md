@@ -58,7 +58,11 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
 <a href="https://doitforus.tistory.com/">
     <img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/></a>
 </a>
+<a href="fixup719@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+</a>
 
+## 🔍 Problem Solving
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fixup719)](https://solved.ac/fixup719)
 
