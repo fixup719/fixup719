@@ -19,6 +19,9 @@
 ## ✍ Studying
 ### Backend
 <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/></a>
 
 
 [![Solved.ac
