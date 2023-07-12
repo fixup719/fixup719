@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/></a>
 ### Backend
 <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
+<img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"></a>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/></a>
