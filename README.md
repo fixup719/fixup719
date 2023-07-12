@@ -43,6 +43,7 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
 |TRIPMATE|여행을 계획하고 경험을 공유하는 플랫폼(반응형)|KH정보교육원|2022.01 ~ 2022.02|
 
 ## 👥 Experiences
+|------|---|---|---|
 |CHPO|깃허브, 백준 기반 랭킹 조회 및 취업 관리 플랫폼(웹앱)|SSAFY|2023.04 ~ 2023.05|
 |TEDBEAR|영어 스피킹 연습을 위한 TED 강연 영상 추천 플랫폼(반응형)|SSAFY|2023.02 ~ 2023.04|
 |SMILE|스터디 일정 관리 플랫폼(웹)|SSAFY|2023.01 ~ 2023.02|
