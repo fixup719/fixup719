@@ -8,7 +8,7 @@
 
 ## 🛠 Skills
 ### Frontend
- <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=TypeScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=TypeScript&logoColor=white"/>   
 ### Collaboration
 ### Design
 
