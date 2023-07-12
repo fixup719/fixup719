@@ -15,6 +15,8 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white"/></a>
+### Design
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
 ### Collaborate
 <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/></a>
