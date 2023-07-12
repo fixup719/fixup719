@@ -16,6 +16,9 @@
 <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white"/></a>
 ### Collaborate
+<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white"/></a>
 
 ## ✍ Studying
 ### Frontend
