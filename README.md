@@ -47,11 +47,14 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
 * KH 정보교육원 백엔드 과정 ( 2021.09 ~ 2022.02 )   
 * 서울여자대학교 행정학과(본), 소프트웨어융합학과(복수) ( 2016.03 ~ 2021.08 )
 
-## 🍀 Certificates
+## 💳 Certificates
 * SQLD 
 * GTP 1급 
 
+## 🏆 Awards
+* 2023 삼성 청년 SW 아카데미 특화 프로젝트 TEDBEAR 우수상
 
+## 🔍 Contact
 
 
 [![Solved.ac
