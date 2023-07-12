@@ -43,10 +43,13 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
 |TRIPMATE|여행을 계획하고 경험을 공유하는 플랫폼(반응형)|KH정보교육원|2022.01 ~ 2022.02|
 
 ## 👥 Experiences
-|------|---|---|---|
-|CHPO|깃허브, 백준 기반 랭킹 조회 및 취업 관리 플랫폼(웹앱)|SSAFY|2023.04 ~ 2023.05|
-|TEDBEAR|영어 스피킹 연습을 위한 TED 강연 영상 추천 플랫폼(반응형)|SSAFY|2023.02 ~ 2023.04|
-|SMILE|스터디 일정 관리 플랫폼(웹)|SSAFY|2023.01 ~ 2023.02|
+|소속 기관|기간|
+|------|---|
+|삼성 청년 SW 아카데미 8기|2022.07 ~ 2023.06|
+|KH 정보교육원 백엔드 과정|2021.09 ~ 2022.02|
+|서울여자대학교 행정학과(본 전공), 소프트웨어융합학과(복수 전공)|2016.03 ~ 2021.08|
+
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fixup719)](https://solved.ac/fixup719)
