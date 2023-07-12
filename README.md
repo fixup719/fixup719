@@ -5,7 +5,7 @@
 
 ## 👋 Introduction 
 안녕하세요! 더 나은 사용자 경험을 제공하기 위해 노력하는 프론트엔드 개발자 정혜주 입니다.   
-Hello! I'm front-end developer Jung Hye-joo, working to provide a better user experience.
+Hello! I'm front-end developer Hye-joo Jung, working to provide a better user experience.
 
 ## 🛠 Skills
 #### Frontend
@@ -34,6 +34,12 @@ Hello! I'm front-end developer Jung Hye-joo, working to provide a better user ex
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/></a>
 
+## 👥 Projects
+|프로젝트 명|설명|소속|기간|
+|------|---|---|---|
+|SMILE|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fixup719)](https://solved.ac/fixup719)
