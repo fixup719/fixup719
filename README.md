@@ -16,7 +16,9 @@
 <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white"/></a>
 
-## 🛠 Studying
+## ✍ Studying
+### Backend
+<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white"/></a>
 
 
 [![Solved.ac
