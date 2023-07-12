@@ -55,7 +55,9 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
 * 2023 삼성 청년 SW 아카데미 특화 프로젝트 TEDBEAR 우수상
 
 ## 🔍 Contact
-
+<a href="https://doitforus.tistory.com/">
+    <img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/></a>
+</a>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fixup719)](https://solved.ac/fixup719)
