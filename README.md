@@ -3,6 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B72AFF&title_bg=%23747474&icon=&icon_color=%23F40000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Introduction ☺
+</hr>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fixup719)](https://solved.ac/fixup719)
