@@ -4,3 +4,5 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fixup719)](https://solved.ac/fixup719)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejoojung719&layout=compact)](https://github.com/hyejoojung719/github-readme-stats)
