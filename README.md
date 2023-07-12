@@ -7,7 +7,10 @@
 안녕하세요! 더 나은 사용자 경험을 제공하기 위해 노력하는 프론트엔드 개발자 정혜주 입니다.   
 
 ## 🌼 Skills
-안녕하세요! 더 나은 사용자 경험을 제공하기 위해 노력하는 프론트엔드 개발자 정혜주 입니다.   
+### Frontend
+### Collaboration
+### Design
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fixup719)](https://solved.ac/fixup719)
