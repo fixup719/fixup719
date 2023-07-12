@@ -42,10 +42,14 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
 |SMILE|스터디 일정 관리 플랫폼(웹)|SSAFY|2023.01 ~ 2023.02|
 |TRIPMATE|여행을 계획하고 경험을 공유하는 플랫폼(반응형)|KH정보교육원|2022.01 ~ 2022.02|
 
-## 👥 Experiences
+## 🍀 Experiences
 * 삼성 청년 SW 아카데미 8기 ( 2022.07 ~ 2023.06 )   
 * KH 정보교육원 백엔드 과정 ( 2021.09 ~ 2022.02 )   
 * 서울여자대학교 행정학과(본), 소프트웨어융합학과(복수) ( 2016.03 ~ 2021.08 )
+
+## 🍀 Certificates
+* SQLD 
+* GTP 1급 
 
 
 
