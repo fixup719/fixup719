@@ -8,12 +8,8 @@
 
 ## 🛠 Skills
 ### Frontend
- <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=TypeScript&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=TypeScript&logoColor=white"/>   
-
-<img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/C-AFEEEE?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=TypeScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=TypeScript&logoColor=white"/></a>
 
 ## 🛠 Studying
 
