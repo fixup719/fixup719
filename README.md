@@ -18,7 +18,7 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white"/></a>
 #### Design
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
-#### Collaborate
+#### Collaboration
 <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white"/></a>
