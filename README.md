@@ -65,6 +65,7 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fixup719)](https://solved.ac/fixup719)
 
+## ⭐ Git Status
 <div>
     <a href = "https://oreuda.kr/">
       <img
