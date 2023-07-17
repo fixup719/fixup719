@@ -34,12 +34,12 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/></a>
 
 ## 👥 Projects
-|프로젝트 명|설명|소속|기간|
-|------|---|---|---|
-|CHPO|깃허브, 백준 기반 랭킹 조회 및 취업 관리 플랫폼(웹앱)|SSAFY|2023.04 ~ 2023.05|
-|TEDBEAR|영어 스피킹 연습을 위한 TED 강연 영상 추천 플랫폼(반응형)|SSAFY|2023.02 ~ 2023.04|
-|SMILE|스터디 일정 관리 플랫폼(웹)|SSAFY|2023.01 ~ 2023.02|
-|TRIPMATE|여행을 계획하고 경험을 공유하는 플랫폼(반응형)|KH정보교육원|2022.01 ~ 2022.02|
+|프로젝트 명|설명|역할|소속|기간|
+|------|---|---|---|---|
+|CHPO|깃허브, 백준 기반 랭킹 조회 및 취업 관리 플랫폼(웹앱)|SSAFY|FE|2023.04 ~ 2023.05|
+|TEDBEAR|영어 스피킹 연습을 위한 TED 강연 영상 추천 플랫폼(반응형)|SSAFY|FE|2023.02 ~ 2023.04|
+|SMILE|스터디 일정 관리 플랫폼(웹)|SSAFY|FE|2023.01 ~ 2023.02|
+|TRIPMATE|여행을 계획하고 경험을 공유하는 플랫폼(반응형)|KH정보교육원|FE, BE|2022.01 ~ 2022.02|
 
 ## 🍀 Experiences
 * 삼성 청년 SW 아카데미 8기 ( 2022.07 ~ 2023.06 )   
