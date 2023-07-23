@@ -24,6 +24,7 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
 
 ## ✍ Studying
 #### Frontend
+<img src="https://img.shields.io/badge/flutter-#02569B?style=flat&logo=flutter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/></a>
 #### Backend
