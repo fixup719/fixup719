@@ -49,7 +49,8 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
 
 ## 💳 Certificates
 * SQLD 
-* GTQ 1급 
+* GTQ 1급
+* OPIC IM2
 
 ## 🏆 Awards
 * 2023 삼성 청년 SW 아카데미 특화 프로젝트 TEDBEAR 우수상
