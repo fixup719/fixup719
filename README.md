@@ -52,6 +52,11 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
 * GTQ 1급
 * OPIC IM2
 
+## :open_file_folder: Portfolio
+<a href="https://doitforus.tistory.com/">
+    <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a>
+</a>
+
 ## 🏆 Awards
 * 2023 삼성 청년 SW 아카데미 특화 프로젝트 TEDBEAR 우수상
 
@@ -75,4 +80,3 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
       />
     </a>
   </div>
-
