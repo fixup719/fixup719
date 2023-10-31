@@ -53,7 +53,7 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
 * OPIC IM2
 
 ## :open_file_folder: Portfolio
-<a href="https://doitforus.tistory.com/">
+<a href="https://www.notion.so/f17be6e2a2c04ed8ac870cd27a525b2f?pvs=4">
     <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a>
 </a>
 
