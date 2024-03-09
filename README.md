@@ -51,6 +51,7 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
 * SQLD 
 * GTQ 1급
 * OPIC IM2
+* Coding Specialist Professional 1급 (Java)
 
 ## :open_file_folder: Portfolio
 <a href="https://www.notion.so/f17be6e2a2c04ed8ac870cd27a525b2f?pvs=4">
