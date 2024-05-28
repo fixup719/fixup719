@@ -72,7 +72,7 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
 ## 💡 Problem Solving
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fixup719)](https://solved.ac/fixup719)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={fixup719}&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=fixup719&theme=dark)
 
 ## ⭐ Git Status
 <div>
