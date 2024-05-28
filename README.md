@@ -79,5 +79,7 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
       <img
         src=https://oreuda.kr/api/v1/plant/card?nickname=hyejoojung719        alt="oreuda"
       />
+        <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
     </a>
   </div>
+  
