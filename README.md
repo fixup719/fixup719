@@ -74,12 +74,3 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fixup719)](https://solved.ac/fixup719)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=fixup719&theme=dark)
 
-## ⭐ Git Status
-<div>
-    <a href = "https://oreuda.kr/">
-      <img
-        src=https://oreuda.kr/api/v1/plant/card?nickname=hyejoojung719        alt="oreuda"
-      />
-    </a>
-  </div>
-  
