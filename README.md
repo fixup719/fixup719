@@ -48,6 +48,7 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
 * 서울여자대학교 행정학과(본), 소프트웨어융합학과(복수) ( 2016.03 ~ 2021.08 )
 
 ## 💳 Certificates
+* 정보처리기사
 * COS Pro 1급 (Java)
 * OPIC IM2
 * SQLD 
