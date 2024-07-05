@@ -48,12 +48,13 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
 * 서울여자대학교 행정학과(본), 소프트웨어융합학과(복수) ( 2016.03 ~ 2021.08 )
 
 ## 💳 Certificates
-* 정보처리기사
-* COS Pro 1급 (Java)
-* OPIC IM2
-* SQLD 
-* GTQ 1급
-* 컴퓨터 활용 능력 2급
+* 2024.07 빅데이터분석기사
+* 2024.06 정보처리기사
+* 2024.03 COS Pro 1급 (Java)
+* 2023.09 OPIC IM2
+* 2022.06 SQLD 
+* 2020.02 GTQ 1급
+* 2016.01 컴퓨터 활용 능력 2급
 
 ## :open_file_folder: Portfolio
 <a href="https://www.notion.so/f17be6e2a2c04ed8ac870cd27a525b2f?pvs=4">
