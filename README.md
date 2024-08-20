@@ -23,8 +23,6 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
 <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white"/></a>
 
 ## ✍ Studying
-#### Frontend
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/></a>
 #### Backend
 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"></a>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/></a>
