@@ -47,18 +47,11 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
 * 2024.03 COS Pro 1급 (Java)
 * 2023.09 OPIC IM2
 * 2022.06 SQLD 
-* 2020.02 GTQ 1급
-* 2016.01 컴퓨터 활용 능력 2급
-
-## :open_file_folder: Portfolio
-<a href="https://www.notion.so/f17be6e2a2c04ed8ac870cd27a525b2f?pvs=4">
-    <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a>
-</a>
 
 ## 🏆 Awards
 * 2023 삼성 청년 SW 아카데미 특화 프로젝트 TEDBEAR 우수상
 
-## 🔍 Contact
+## 🔍 Blog / Contact
 <a href="https://doitforus.tistory.com/">
     <img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/></a>
 </a>
