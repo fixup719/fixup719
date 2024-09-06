@@ -3,8 +3,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyejoojung719%2Fhit-counter&count_bg=%238E63FF&title_bg=%236E6E6E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 👋 Introduction 
-안녕하세요! 더 나은 사용자 경험을 제공하기 위해 노력하는 프론트엔드 개발자 정혜주 입니다.  
-Hello! I'm front-end developer Hye-joo Jung, working to provide a better user experience.
+안녕하세요! 더 나은 사용자 경험을 제공하기 위해 노력하는 프론트엔드 개발자입니다.  
+Hello! I'm front-end developer, working to provide a better user experience.
 
 ## 🛠 Skills
 #### Frontend
@@ -39,7 +39,6 @@ Hello! I'm front-end developer Hye-joo Jung, working to provide a better user ex
 ## 🍀 Experiences
 * 삼성 청년 SW 아카데미 8기 ( 2022.07 ~ 2023.06 )   
 * KH 정보교육원 백엔드 과정 ( 2021.09 ~ 2022.02 )   
-* 서울여자대학교 행정학과(본), 소프트웨어융합학과(복수) ( 2016.03 ~ 2021.08 )
 
 ## 💳 Certificates
 * 2024.07 빅데이터분석기사
