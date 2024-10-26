@@ -4,7 +4,7 @@
 
 ## 👋 Introduction 
 안녕하세요! 더 나은 사용자 경험을 제공하기 위해 노력하는 개발자 정혜주입니다.  
-Hello! I'm front-end developer, working to provide a better user experience.
+Hello! I'm developer, working to provide a better user experience.
 
 ## 🛠 Skills
 #### Frontend
