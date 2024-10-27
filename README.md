@@ -37,7 +37,6 @@ Hello! I'm developer, working to provide a better user experience.
 |TRIPMATE|여행을 계획하고 경험을 공유하는 플랫폼(반응형)|FE, BE|KH정보교육원|2022.01 ~ 2022.02|
 
 ## 🍀 Experiences
-* IBK시스템 ( 2024.11 ~ ing )
 * 삼성 청년 SW 아카데미 8기 ( 2022.07 ~ 2023.06 )   
 * KH 정보교육원 백엔드 과정 ( 2021.09 ~ 2022.02 )   
 
