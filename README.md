@@ -7,7 +7,7 @@
 Hello! I'm developer, working to provide a better user experience.
 
 ## 💼 Careers
-* IBK시스템 ( 2024.11.05 ~ ing)
+* IBK시스템 ( 2024.11.05 ~ ing )
 
 ## 🍀 Experiences
 * 삼성 청년 SW 아카데미 8기 ( 2022.07 ~ 2023.06 )   
