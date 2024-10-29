@@ -6,6 +6,24 @@
 안녕하세요! 더 나은 사용자 경험을 제공하기 위해 노력하는 개발자 정혜주입니다.  
 Hello! I'm developer, working to provide a better user experience.
 
+## 💼 Careers
+* IBK시스템 ( 2024.11.05 ~ ing)
+
+## 🍀 Experiences
+* 삼성 청년 SW 아카데미 8기 ( 2022.07 ~ 2023.06 )   
+* KH 정보교육원 백엔드 과정 ( 2021.09 ~ 2022.02 )
+* 서울여자대학교 행정학과(본), 소프트웨어융합학과(복) ( 2016.03 ~ 2021.08 / 전체 평점 4.38, SW전공평점 4.39)
+
+## 💳 Certificates
+* 2024.07 빅데이터분석기사
+* 2024.06 정보처리기사
+* 2024.03 COS Pro 1급 (Java)
+* 2023.09 OPIC IM2
+* 2022.06 SQLD 
+
+## 🏆 Awards
+* 2023 삼성 청년 SW 아카데미 특화 프로젝트 TEDBEAR 우수상
+
 ## 🛠 Skills
 #### Frontend
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
@@ -35,20 +53,6 @@ Hello! I'm developer, working to provide a better user experience.
 |TEDBEAR|영어 스피킹 연습을 위한 TED 강연 영상 추천 플랫폼(반응형)|FE|SSAFY|2023.02 ~ 2023.04|
 |SMILE|스터디 일정 관리 플랫폼(웹)|FE|SSAFY|2023.01 ~ 2023.02|
 |TRIPMATE|여행을 계획하고 경험을 공유하는 플랫폼(반응형)|FE, BE|KH정보교육원|2022.01 ~ 2022.02|
-
-## 🍀 Experiences
-* 삼성 청년 SW 아카데미 8기 ( 2022.07 ~ 2023.06 )   
-* KH 정보교육원 백엔드 과정 ( 2021.09 ~ 2022.02 )   
-
-## 💳 Certificates
-* 2024.07 빅데이터분석기사
-* 2024.06 정보처리기사
-* 2024.03 COS Pro 1급 (Java)
-* 2023.09 OPIC IM2
-* 2022.06 SQLD 
-
-## 🏆 Awards
-* 2023 삼성 청년 SW 아카데미 특화 프로젝트 TEDBEAR 우수상
 
 ## 🔍 Blog / Contact
 <a href="https://doitforus.tistory.com/">
