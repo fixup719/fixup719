@@ -6,8 +6,8 @@
 안녕하세요! 더 나은 사용자 경험을 제공하기 위해 노력하는 개발자 정혜주입니다.  
 Hello! I'm developer, working to provide a better user experience.
 
-## 💼 Careers
-* IBK System ( 2024.11.05 ~ ing )
+## 💼 Career
+* IBK System ( 2024.11.05 입사 )
 
 ## 🍀 Experiences
 * 삼성 청년 SW 아카데미 8기 ( 2022.07 ~ 2023.06 )   
