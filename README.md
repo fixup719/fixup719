@@ -22,7 +22,7 @@ Hello! I'm developer, working to provide a better user experience.
 * 2022.06 SQLD 
 
 ## 🏆 Awards
-* 2023 삼성 청년 SW 아카데미 특화 프로젝트 TEDBEAR 우수상
+* 2023 삼성 청년 SW 아카데미 특화 프로젝트 TEDBEAR 우수상 
 
 ## 🛠 Skills
 #### Frontend
