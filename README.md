@@ -14,7 +14,6 @@ Hello! I'm developer, working to provide a better user experience.
 
 ## 💼 Career
 * IBK System ( 2024.11.05 ~ )
-  * BPR 시스템 운영
 
 ## 🍀 Experiences
 * 삼성 청년 SW 아카데미 8기 ( 2022.07 ~ 2023.06 )   
