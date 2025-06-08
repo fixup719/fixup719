@@ -1,18 +1,25 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,6,7,8,30&height=280&section=header&text=Welcome%20to%20Hyejoo's%20Github!&fontSize=40)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffixup719%2Fhit-counter&count_bg=%238E63FF&title_bg=%236E6E6E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 👋 Introduction 
+안녕하세요! 더 나은 사용자 경험을 제공하기 위해 노력하는 개발자 정혜주입니다.  
+Hello! I'm developer, working to provide a better user experience.
+
+## 💼 Career
+* IBK System ( 2024.11.05 ~ )
+  * BPR 시스템 운영[header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,6,7,8,30&height=280&section=header&text=Welcome%20to%20Hyejoo's%20Github!&fontSize=40)
 
 ## 👋 Introduction 
 안녕하세요! 더 나은 사용자 경험을 제공하기 위해 노력하는 개발자 정혜주입니다.  
 Hello! I'm developer, working to provide a better user experience.
 
 ## 💼 Career
-* IBK System ( 2024.11.05 입사 )
+* IBK System ( 2024.11.05 ~ )
+  * BPR 시스템 운영
 
 ## 🍀 Experiences
 * 삼성 청년 SW 아카데미 8기 ( 2022.07 ~ 2023.06 )   
 * KH 정보교육원 백엔드 과정 ( 2021.09 ~ 2022.02 )
-* 서울여자대학교 행정학과(본), 소프트웨어융합학과(복) ( 2016.03 ~ 2021.08 / GPA 4.38 )
+* 서울여자대학교 행정학과(본), 소프트웨어융합학과(복) ( 2016.03 ~ 2021.08 )
 
 ## 💳 Certificates
 * 2024.07 빅데이터분석기사
