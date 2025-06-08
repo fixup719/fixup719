@@ -6,14 +6,7 @@ Hello! I'm developer, working to provide a better user experience.
 
 ## 💼 Career
 * IBK System ( 2024.11.05 ~ )
-  * BPR 시스템 운영[header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,6,7,8,30&height=280&section=header&text=Welcome%20to%20Hyejoo's%20Github!&fontSize=40)
-
-## 👋 Introduction 
-안녕하세요! 더 나은 사용자 경험을 제공하기 위해 노력하는 개발자 정혜주입니다.  
-Hello! I'm developer, working to provide a better user experience.
-
-## 💼 Career
-* IBK System ( 2024.11.05 ~ )
+  * BPR 시스템 운영
 
 ## 🍀 Experiences
 * 삼성 청년 SW 아카데미 8기 ( 2022.07 ~ 2023.06 )   
